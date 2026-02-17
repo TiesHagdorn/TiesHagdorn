@@ -7,5 +7,5 @@ I'm a Product Manager at Picnic Technologies working on the Picnic App, and codi
 
 
 ## Current Projects
-- 🥚 **[Perfect Egg Timer](https://www.perfect-egg-timer.com)** - Science-based timer to calculate perfect boiling time based on egg size, temperature, and desired doneness
+- 🥚 **[Perfect Egg Timer](https://www.perfect-egg-timer.com)** - Science-based timer to calculate boiling time based on egg size, temperature, and desired doneness
 - 🍰 **[Cake Radar](https://github.com/TiesHagdorn/cake-radar)** -  Slackbot alert to scan and collect messages of edible treats, for office use
